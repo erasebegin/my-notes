@@ -10,7 +10,6 @@ const posts = (await getCollection('notes')).sort(
 	(a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
 );
 
-console.log({posts})
 ---
 
 <!doctype html>
