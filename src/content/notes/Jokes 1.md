@@ -2,7 +2,7 @@
 title: 'Collected Jokes'
 description: 'A collection of jokes'
 pubDate: 'Apr 03 2024'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/jokes.jpeg'
 ---
 
 **How did the rabbit feel when it broke its foot?**
