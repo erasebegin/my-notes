@@ -1,3 +1,10 @@
+---
+title: 'Collected Jokes'
+description: 'A collection of jokes'
+pubDate: 'Apr 03 2024'
+heroImage: '/my-notes/blog-placeholder-3.jpg'
+---
+
 **How did the rabbit feel when it broke its foot?**
 
 Unhoppy
