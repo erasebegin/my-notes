@@ -1,8 +1,8 @@
 ---
-title: 'Collected Jokes'
-description: 'A collection of jokes'
-pubDate: 'Apr 03 2024'
-heroImage: '/my-notes/blog-placeholder-3.jpg'
+title: The Witch
+description: Translation of school play
+pubDate: Apr 23 2024
+heroImage: /my-notes/blog-placeholder-3.jpg
 ---
 
 ## Act One
