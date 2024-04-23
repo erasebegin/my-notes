@@ -5,7 +5,6 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://erasebegin.github.io",
-  base: "/my-notes",
+  site: "https://boatsofnotes.netlify.app",
   integrations: [mdx(), sitemap()],
 });
