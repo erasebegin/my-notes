@@ -93,7 +93,7 @@ She was on fire.
 
 ---
 While traveling in Japan I was at a bar when I saw a man with a little Charlie Chaplin moustache and a floppy fringe and he looked just about the age Hitler would be about now sitting with a familiar looking woman. I had to know, I had to ask. So I went over to him and said “excuse me are you-“ 
-“Yes, it is me, I am ze person you sinking of, I am he, zis is my wife Eva it. does not matter to me anymore that people know who I am, we have been amassing an army and soon we will be back stronger zan ever. This time we will kill 12 million Jews!!! … and 3 acrobats.”
+“Yes, it iz me, I am ze person you sinking of, I am he, zis is my wife Eva. It does not matter anymore zat people know who I am, we have been amassing an army and zoon we will be back stronger zan ever. Zis time we will kill 12 million Jews!!! … and 3 acrobats.”
 
 “… why 3 acrobats?”
 
