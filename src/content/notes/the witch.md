@@ -2,7 +2,7 @@
 title: The Witch
 description: Translation of school play
 pubDate: Apr 23 2024
-heroImage: /blog-placeholder-3.jpg
+heroImage: /witch.png
 ---
 
 ## Act One
