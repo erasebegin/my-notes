@@ -1,3 +1,10 @@
+---
+title: 'Collected Jokes'
+description: 'A collection of jokes'
+pubDate: 'Apr 03 2024'
+heroImage: '/my-notes/blog-placeholder-3.jpg'
+---
+
 ## Act One
 
 **Narrator:** A gentle breeze brushes over a lake, pear blossoms fluttering, softly landing on the rippling water. In the deep forest, two figures emerge, their murmurs echoing through the trees. It's a brother and sister who are lost in the woods.
